@@ -1,5 +1,4 @@
 package org.example;
-
 import org.example.java.Ejercicio02;
 import org.example.java.Ejercicio04;
 import org.example.java.Ejercicio06;
